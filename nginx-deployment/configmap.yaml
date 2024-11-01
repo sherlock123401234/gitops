@@ -15,7 +15,7 @@ data:
         <div class="container">
           <div class="jumbotron mt-5">
             <h1 class="display-4">Welkom op de server!</h1>
-            <p class="lead">Als ik straks een commit doe wordt de applicatie automatisch gedeployed.</p>
+            <p class="lead">Nieuwe commit! Wordt automatisch opnieuw gedeployed!</p>
           </div>
         </div>
       </body>
