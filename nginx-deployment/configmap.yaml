@@ -7,15 +7,15 @@ data:
     <!DOCTYPE html>
     <html>
       <head>
-        <title>Welcome</title>
+        <title>Het werkt!</title>
         <!-- Include Bootstrap CSS from CDN -->
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
       </head>
       <body>
         <div class="container">
           <div class="jumbotron mt-5">
-            <h1 class="display-4">Welcome, DevOps Engineer!</h1>
-            <p class="lead">Hi DevOps Engineer, I got Synced using ArgoCD.</p>
+            <h1 class="display-4">Welkom op de server!</h1>
+            <p class="lead">Als ik straks een commit doe wordt de applicatie automatisch gedeployed.</p>
           </div>
         </div>
       </body>
