@@ -14,7 +14,7 @@ data:
       <body>
         <div class="container">
           <div class="jumbotron mt-5">
-            <h1 class="display-4">Welkom op de server demo!</h1>
+            <h1 class="display-4">Welkom op de server demo new!</h1>
             <p class="lead">Nieuwe commit! Wordt automatisch opnieuw gedeployed!</p>
           </div>
         </div>
